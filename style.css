@@ -1,0 +1,19 @@
+body{
+    font-family: Verdana, "Geneva", Tahoma, sans-serif;
+    background-color: teal;
+    text-align: center;
+    color: black;
+
+}
+
+h1{
+    font-weight: bolder;
+    font-size: 6rem;
+    text-decoration-line: underline;
+}
+
+ul { display: inline-block;;
+}
+
+
+
